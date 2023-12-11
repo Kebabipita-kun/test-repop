@@ -1,3 +1,3 @@
 # demo prosjekt
 
-en fin beskrivelse av mitt prosjekt. 
+en fin beskrivelse av mitt prosjekt!
